@@ -10,5 +10,6 @@ public class IdadeParaVotacao {
         int idade = 23;
         System.out.println("Voce tem " + idade + " e eh um eleitor apto a exercer sua cidadania.");
         //blablablablabla
+        //blablabla2
     }
 }
