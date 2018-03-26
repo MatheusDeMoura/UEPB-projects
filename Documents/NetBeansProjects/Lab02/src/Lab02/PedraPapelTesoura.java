@@ -21,6 +21,9 @@ public class PedraPapelTesoura {
     }
     
     private static void declararVencedor(int jogador1, int jogador2, int NUMERO_SIMBOLOS){
+        
+        //essa parte ainda ta errada kkkkk
+        
         double vencedor;
         vencedor = Math.abs(jogador1 - jogador2);
         if(vencedor == 0){
